@@ -6,3 +6,6 @@
     <li>run <i>git clone https://github.com/jcboutkan/webstart.git</i> in your project folder</li>
     <li>run <i>npm install</i> from your projectfolder</li>
 </ol>
+<h2>How to use</h2>
+<p>To run the script simply run <i>grunt</i> and open the html in your browser</p>
+<h2>Have fun!</h2>
